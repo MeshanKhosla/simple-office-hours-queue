@@ -1,3 +1,5 @@
+## The real SOHQ repo is [here](https://github.com/Berkeley-CS61B/simple-office-hours-queue). This one was created since I initially couldn't deploy from an organization account. That has been resolved so this repo is not needed.
+
 # Simple Office Hours Queue
 
 ## What?
